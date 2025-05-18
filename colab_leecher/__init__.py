@@ -8,9 +8,9 @@ from pyrogram.client import Client
 with open("/content/Telegram-Leecher/credentials.json", "r") as file:
     credentials = json.loads(file.read())
 
-API_ID = credentials["API_ID"]
-API_HASH = credentials["API_HASH"]
-BOT_TOKEN = credentials["BOT_TOKEN"]
+API_ID = credentials["22606849"]
+API_HASH = credentials["ef85493cd32eadcb5309b5957d8d1b86"]
+BOT_TOKEN = credentials["8179604363:AAHUvF_Rs95t23XT057nfhh8ROVBXYHRhhQ"]
 OWNER = credentials["USER_ID"]
 DUMP_ID = credentials["DUMP_ID"]
 
