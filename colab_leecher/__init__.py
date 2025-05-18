@@ -10,9 +10,9 @@ with open("/content/Telegram-Leecher/credentials.json", "r") as file:
 
 API_ID = credentials["22606849"]
 API_HASH = credentials["ef85493cd32eadcb5309b5957d8d1b86"]
-BOT_TOKEN = credentials["8179604363:AAHUvF_Rs95t23XT057nfhh8ROVBXYHRhhQ"]
-OWNER = credentials["USER_ID"]
-DUMP_ID = credentials["DUMP_ID"]
+BOT_TOKEN = credentials["7565794309:AAEu04K7yOmB5C4IjfFn3yPgZXn4bkC3B-o"]
+OWNER = credentials["8189246702"]
+DUMP_ID = credentials["-1002623071471"]
 
 
 logging.basicConfig(level=logging.INFO)
